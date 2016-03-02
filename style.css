@@ -1,0 +1,65 @@
+
+body {background: #f9e933;}
+header, main, footer {min-width: 855px;}
+header .container, main .container, footer .container {
+    max-width: 855px;
+    margin: auto;
+}
+header {background-color: white;}
+main {
+	background: white;
+	padding-left: 9cm;
+	padding-right: 9cm;
+}
+h1 {
+	padding-left:9cm;
+	color: red;
+	float: left;
+	width: 570px;
+	font-family: sans-serif;
+	font-style: oblique;
+	font-weight: bold;
+	font-size: 40px;
+	line-height: 250%;
+}
+nav {
+	float: right;
+	width: 500px;
+	color: red;
+	line-height: 300%;
+}
+h2,h3 {
+	font-size: 30px;
+	line-height: 200%;
+}
+main p,ul{
+	font-size: 20px;
+	line-height: 100%;
+}
+footer {
+	padding-left: 9cm;
+	padding-right: 9cm;
+}
+footer div1 {
+	float: left;
+}
+footer div2 {
+	float: right;
+}
+h5,h6 {
+	font-size: 20px;
+	line-height: 200%;
+}
+div1 p:nth-child(2) {
+	color: red;
+	font-style: oblique;
+	font-weight: bold;
+}
+div1 p{
+	font-size: 15px;
+	line-height: 150%
+}
+div2 ul{
+	font-size: 15px;
+	line-height: 150%
+}

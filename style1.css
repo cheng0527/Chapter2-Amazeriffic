@@ -10,6 +10,7 @@ main {
 	padding-left: 9cm;
 	padding-right: 9cm;
 }
+img { float: right;}
 h1 {
 	padding-left:9cm;
 	color: red;

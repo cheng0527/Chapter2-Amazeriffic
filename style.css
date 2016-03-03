@@ -11,6 +11,7 @@ main {
 	padding-left: 9cm;
 	padding-right: 9cm;
 }
+img { float: right;}
 h1 {
 	padding-left:9cm;
 	color: red;
@@ -29,6 +30,7 @@ nav {
 	line-height: 300%;
 }
 h2,h3 {
+	padding-right: 11cm;
 	font-size: 30px;
 	line-height: 200%;
 }
